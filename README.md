@@ -5,7 +5,7 @@ This repository contains my work, exercises, and projects from the **Node.js Cou
 ## 📚 Course Overview
 
 - **Instructor**: John Smilga
-- **Platform**: [Insert platform, e.g., Udemy / FreeCodeCamp / YouTube]
+- **Platform**: Udemy
 - **Focus**: Building a solid foundation in Node.js, Express, asynchronous JavaScript, file system operations, databases, and deployment.
 
 ## 📖 Key Topics Covered
